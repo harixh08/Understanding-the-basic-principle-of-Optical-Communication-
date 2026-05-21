@@ -21,3 +21,4 @@ Numerical Aperture measurement Jig
 
 ## Result
 <img width="1280" height="795" alt="WhatsApp Image 2026-04-29 at 8 44 38 AM" src="https://github.com/user-attachments/assets/fd5b08b9-68e1-432c-bdd7-10e18e23dcc7" />
+thus,the numerical aperture of the fiber has been measured successfully
